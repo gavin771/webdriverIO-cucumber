@@ -1,12 +1,17 @@
 {
   "name": "ui-automation",
   "version": "1.0.0",
-  "description": "",
+  "description": "A UI automation framework using nodeJS, WebdriverIO, Cucumber",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "cucumber",
+    "node",
+    "webdriverio",
+    "bdd"
+  ],
   "author": "Gavin Samuels",
   "license": "MIT",
   "dependencies": {
